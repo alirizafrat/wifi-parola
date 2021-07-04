@@ -10,4 +10,5 @@ dosyayı kod düzenleyicinizden veya Ide'den çalıştırın veya komut satırı
 
 CMD / Terminal
 ```
-python wifi.py```
+python wifi.py
+```
