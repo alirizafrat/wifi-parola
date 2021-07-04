@@ -1,4 +1,4 @@
-## WIFI ŞİFRE ÇIKARICI
+## WIFI - PAROLA
 # Açıklama
 size bağlı olduğunuz wifi şifresini söyleyen basit bir python betiği
 
