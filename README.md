@@ -1,9 +1,13 @@
-## WIFI PASSWORD EJECTOR
-# Description
-a simple python script that tells you the password of the wifi you're connected with
+## WIFI ŞİFRE ÇIKARICI
+# Açıklama
+size bağlı olduğunuz wifi şifresini söyleyen basit bir python betiği
 
-# Requirements
-just need to install python in your system.
+# Gereksinimler
+sisteminize python kurmanız yeterlidir.
 
-# How to run
-run the file from your code editor or Ide or u can also run it from the command line
+# Nasıl çalıştırılır
+dosyayı kod düzenleyicinizden veya Ide'den çalıştırın veya komut satırından da çalıştırabilirsiniz
+
+CMD / Terminal
+```
+python wifi.py```
